@@ -9,7 +9,7 @@
 *Documentation isn't about writing. It's about building a system.*
 
 <a href="https://www.linkedin.com/in/veronicaphillip/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://veronicaphillip.com/"><img src="https://img.shields.io/badge/Website-FF6700?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+<a href="https://veronicaphillip.com/"><img src="https://img.shields.io/badge/Website-4D4DFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 <a href="https://vikkivero.github.io/technical-writing-portfolio/"><img src="https://img.shields.io/badge/View_Portfolio-5E17EB?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio"></a>
 <a href="https://substack.com/@veronicaphillip"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"></a>
 

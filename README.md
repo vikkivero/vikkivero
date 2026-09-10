@@ -87,8 +87,7 @@ With more than 20 years of experience across IT, network technology and SaaS, I 
 ## 📬 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/veronicaphillip/)
-- [VeronicaPhillip.com](https://veronicaphillip.com/)
-- [ProTech Write & Edit Inc.](https://www.linkedin.com/company/11442435/)
+- [ProTech Write & Edit Inc.: veronicaphillip.com](https://veronicaphillip.com/)
 - [Substack](https://substack.com/@veronicaphillip)
 
 ---

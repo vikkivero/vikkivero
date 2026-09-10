@@ -61,7 +61,7 @@ With more than 20 years of experience across IT, network technology and SaaS, I 
 
 > *A practical newsletter for SaaS product, operations and customer success leaders building knowledge systems that AI can trust. I examine how governed documentation improves AI reliability, onboarding, self-service and execution. Published every other Thursday.*
 
-<a href="https://substack.com/@veronicaphillip"><img src="https://img.shields.io/badge/Subscribe_Now-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Subscribe to The AI-Ready PM"></a>
+<a href="https://substack.com/@veronicaphillip"><img src="https://img.shields.io/badge/THE_AI--READY_PM-SUBSCRIBE-FF6719?style=for-the-badge&labelColor=555555&logo=substack&logoColor=white" alt="Subscribe to The AI-Ready PM"></a>
 
 ## 🛠️ Tools and Technologies
 

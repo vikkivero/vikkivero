@@ -83,6 +83,12 @@ With more than 20 years of experience across IT, network technology and SaaS, I 
 
 `Python`
 
+## 🤝 Work With Me
+
+Need a scalable documentation system, Docs-as-Code workflow or trusted knowledge foundation for AI? Work with me through EveryExpert.
+
+<a href="https://www.everyexpert.com/veronicaphillipcptc"><img src="https://img.shields.io/badge/WORK_WITH_ME-VIEW_EVERYEXPERT_PROFILE-5E17EB?style=for-the-badge&labelColor=555555" alt="Work with Veronica Phillip on EveryExpert"></a>
+
 ## 📬 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/veronicaphillip/)

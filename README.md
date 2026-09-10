@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/45946096?v=4" width="150" alt="Veronica Phillip, CPTC">
-
-<h1><img src="assets/purple-waving-hand.png" width="48" alt="Purple waving hand"> I'm Veronica Phillip, CPTC</h1>
+<h1>Hi <img src="assets/purple-waving-hand.png" width="48" alt="Purple waving hand">, I'm Veronica Phillip, CPTC</h1>
 
 ### Documentation Systems & AI Implementation Specialist · Lead Technical Writer
 

@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/veronicaphillip/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://veronicaphillip.com/"><img src="https://img.shields.io/badge/Website-FF6700?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 <a href="https://vikkivero.github.io/technical-writing-portfolio/"><img src="https://img.shields.io/badge/View_Portfolio-5E17EB?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio"></a>
+<a href="https://substack.com/@veronicaphillip"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"></a>
 
 <img src="https://komarev.com/ghpvc/?username=vikkivero&color=5E17EB&style=flat-square&label=Profile+Views" alt="Profile views">
 
@@ -79,6 +80,7 @@ With more than 20 years of experience across IT, network technology and SaaS, I 
 - [LinkedIn](https://www.linkedin.com/in/veronicaphillip/)
 - [VeronicaPhillip.com](https://veronicaphillip.com/)
 - [ProTech Write & Edit Inc.](https://www.linkedin.com/company/11442435/)
+- [Substack](https://substack.com/@veronicaphillip)
 
 ---
 

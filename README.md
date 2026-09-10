@@ -57,6 +57,12 @@ With more than 20 years of experience across IT, network technology and SaaS, I 
 | Workbooks | [Explore](https://github.com/vikkivero/technical-writing-portfolio/tree/main/Workbooks) |
 | Presentations & Infographics | [Explore](https://github.com/vikkivero/technical-writing-portfolio/tree/main/Presentations-and-Infographics) |
 
+## 📰 The AI-Ready PM Newsletter
+
+> *A practical newsletter for SaaS product, operations and customer success leaders building knowledge systems that AI can trust. I examine how governed documentation improves AI reliability, onboarding, self-service and execution. Published every other Thursday.*
+
+<a href="https://substack.com/@veronicaphillip"><img src="https://img.shields.io/badge/Subscribe_Now-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Subscribe to The AI-Ready PM"></a>
+
 ## 🛠️ Tools and Technologies
 
 **Documentation and Publishing**

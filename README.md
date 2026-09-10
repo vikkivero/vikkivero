@@ -25,6 +25,7 @@ With more than 20 years of experience across IT, network technology and SaaS, I 
 
 - 🏢 **Founder** of [ProTech Write & Edit Inc.](https://www.linkedin.com/company/11442435/)
 - 📰 **Author** of [*The AI-Ready PM*](https://substack.com/@veronicaphillip)
+- 💬 [**Testimonials**](https://veronicaphillip.com/testimonials-recommendations/)
 
 ## 🧩 What I Build
 

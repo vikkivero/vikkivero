@@ -23,6 +23,9 @@ I build governed documentation and knowledge systems that help SaaS teams, custo
 
 With more than 20 years of experience across IT, network technology and SaaS, I turn fragmented content into scalable documentation environments that support product delivery, customer self-service and AI-first operations.
 
+- 🏢 **Founder** of [ProTech Write & Edit Inc.](https://www.linkedin.com/company/11442435/)
+- 📰 **Author** of [*The AI-Ready PM*](https://substack.com/@veronicaphillip)
+
 ## 🧩 What I Build
 
 - **Docs-as-Code systems** using Markdown, Git, GitHub Actions, pull requests and automated publishing
